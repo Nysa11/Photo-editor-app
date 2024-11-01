@@ -22,7 +22,7 @@ Photo-editor-app is a lightweight and easy-to-use application for editing images
 - Lightweight and Fast: Designed for quick and efficient image processing, making it suitable for users with varying hardware capabilities.
 - User-Friendly Design: The simple interface allows users of all skill levels to navigate easily and perform edits without a steep learning curve.
 - Versatile Editing Options: With multiple effects available, users can experiment with different looks and styles for their images.
-- Organized Workflow: Automatically saves edited images in a "Modified" folder, helping users keep track of their changes without cluttering their original directories.
+- Organized Workflow: Saves edited images in a "Modified" folder when the user clicks on "Save" button, helping users keep track of their changes without cluttering their original directories.
 - Cross-Platform Compatibility: Built using PyQt5, it works on multiple operating systems, providing a consistent experience across devices.
 
 
