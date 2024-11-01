@@ -14,6 +14,7 @@ Photo-editor-app is a lightweight and easy-to-use application for editing images
 - Undo changes
 - Save modified images in a dedicated "Modified" folder
 - Intuitive user interface
+- Switch between light and dark themes for a customizable viewing experience.
 
 
 ## Advantages
