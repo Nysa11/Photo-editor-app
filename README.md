@@ -33,5 +33,7 @@ Photo-editor-app is a lightweight and easy-to-use application for editing images
    ```bash
   git clone https://github.com/Nysa11/Photo-editor-app.git
 
-```bash
-python main.py
+- Run the application.
+
+  ```bash
+  python main.py
