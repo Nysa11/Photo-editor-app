@@ -28,4 +28,10 @@ Photo-editor-app is a lightweight and easy-to-use application for editing images
 
 ## Getting Started
 
-To get started with Photo-editor-app, simply download the application, open it, and select the folder containing your images. From there, you can load any image, apply effects, and save your modified images with ease.
+- To get started with Photo-editor-app, simply download the application, open it, and select the folder containing your images. From there, you can load any image, apply effects, and save your modified images with ease.
+
+   ```bash
+  git clone https://github.com/Nysa11/Photo-editor-app.git
+
+```bash
+python main.py
